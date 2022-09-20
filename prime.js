@@ -11,5 +11,3 @@ return true;
 }else {
 return false;
 }
- let x=checkPrime(13);
-console.log(x);
