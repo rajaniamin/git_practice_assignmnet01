@@ -5,12 +5,9 @@ if(num%i==0){
 factor++;
 }
 }
+
 if(factor==2){
 return true;
 }else {
-retuen false;
+return false;
 }
-}
-
-let y=checkPrime(13);
-console.log(y);
